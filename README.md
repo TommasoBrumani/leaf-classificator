@@ -1,6 +1,6 @@
 # Leaf Classificator Artificial Neural Network
 ## Overview
-The program is a `Python` implementation through `Jupyter Notebook` of an artificial neural network model for the classification of leaf images into different categories, employing a variety of data-augmentation and deep learning techniques. 
+The program is a `Python` implementation using `Jupyter Notebook` of an artificial neural network model for the classification of leaf images into different categories, employing a variety of data-augmentation and deep learning techniques. 
 
 ### Authors
 <b>DEEPressi</b> Team
