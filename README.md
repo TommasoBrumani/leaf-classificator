@@ -24,4 +24,4 @@ In regards to the neural network structure the team begun by testing several net
 
 ## Folder Structure
 * `report`: the report detailing the various approaches that were tried as part of the development of the model
-* `src`: the `jupyter notebook` code for the final model
+* `src`: the `jupyter notebook` code for the final model, as well as some previous attempts
